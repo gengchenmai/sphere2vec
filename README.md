@@ -1,8 +1,8 @@
 # Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions
 Code for recreating the results in [our Sphere2Vec paper](H).
 
-<!-- ## Related Link
-1. [Arxiv Paper](https://arxiv.org/abs/2201.10489) -->
+## Related Link
+1. [Website](https://gengchenmai.github.io/sphere2vec-website)
 
 
 Please visit [my Homepage](http://www.geog.ucsb.edu/~gengchen_mai/) for more information.
