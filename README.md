@@ -39,21 +39,21 @@ The main code are located in `main` folder
 ### Location Encoder Name
 The codebase uses different location encoder model names from the name we use in the paper. Here, we list the correspondence between them.
 
-| Paper Name          | Code Name          |
-|---------------------|--------------------|
-| xyz                 | xyz                |
-| wrap                | geo_net            |
-| wrap + ffn          | geo_net_fft        |
-| rbf                 | rbf                |
-| rff                 | rff                |
-| Space2Vec-grid      | gridcell           |
-| Space2Vec-theory    | theory             |
-| NeRF                | nerf               |
-| Sphere2Vec-sphereC  | sphere             |
-| Sphere2Vec-sphereC+ | spheregrid         |
-| Sphere2Vec-sphereM  | spheremixscale     |
-| Sphere2Vec-sphereM+ | spheregridmixscale |
-| Sphere2Vec-dfs      | dft                |
+| Model Names in the Paper | Model Names in the Code |
+|--------------------------|-------------------------|
+| xyz                      | xyz                     |
+| wrap                     | geo_net                 |
+| wrap + ffn               | geo_net_fft             |
+| rbf                      | rbf                     |
+| rff                      | rff                     |
+| Space2Vec-grid           | gridcell                |
+| Space2Vec-theory         | theory                  |
+| NeRF                     | nerf                    |
+| Sphere2Vec-sphereC       | sphere                  |
+| Sphere2Vec-sphereC+      | spheregrid              |
+| Sphere2Vec-sphereM       | spheremixscale          |
+| Sphere2Vec-sphereM+      | spheregridmixscale      |
+| Sphere2Vec-dfs           | dft                     |
 
 
 
