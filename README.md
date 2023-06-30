@@ -1,8 +1,9 @@
 # Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions
-Code for recreating the results in [our Sphere2Vec paper](H).
+Code for recreating the results in [our Sphere2Vec paper](https://gengchenmai.github.io/sphere2vec-website) to be appeared at ISPRS Journal of Photogrammetry and Remote Sensing.
 
 ## Related Link
 1. [Website](https://gengchenmai.github.io/sphere2vec-website)
+
 
 
 Please visit [my Homepage](http://www.geog.ucsb.edu/~gengchen_mai/) for more information.
@@ -76,7 +77,16 @@ The codebase uses different location encoder model names from the name we use in
 
 
 ### Reference
-
+If you find our work useful in your research please consider citing [our ISPRS PHOTO 2023 paper]().  
+```
+@article{mai2023sphere2vec,
+  title={Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions},
+  author={Mai, Gengchen and Xuan, Yao and Zuo, Wenyun and He, Yutong and Song, Jiaming and Ermon, Stefano and Janowicz, Krzysztof and Lao, Ni},
+  journal={ISPRS Journal of Photogrammetry and Remote Sensing},
+  year={2023},
+  publisher={Elsevier}
+}
+```
 If you use grid location encoder, please also cite [our ICLR 2020 paper](https://openreview.net/forum?id=rJljdh4KDH) and [our IJGIS 2022 paper](https://www.tandfonline.com/doi/full/10.1080/13658816.2021.2004602):
 ```
 @inproceedings{mai2020space2vec,
