@@ -9,6 +9,7 @@ Code for recreating the results in [our Sphere2Vec paper](https://www.researchga
 
 
 
+
 Please visit [my Homepage](http://www.geog.ucsb.edu/~gengchen_mai/) for more information.
 
 ## Model Architecture
