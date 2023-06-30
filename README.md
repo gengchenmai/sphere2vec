@@ -3,7 +3,9 @@ Code for recreating the results in [our Sphere2Vec paper](https://gengchenmai.gi
 
 ## Related Link
 1. [Website](https://gengchenmai.github.io/sphere2vec-website)
-2. [Old Arxiv Paper](https://arxiv.org/abs/2201.10489)
+2. [ResearchGate Paper](https://www.researchgate.net/publication/371964548_Sphere2Vec_A_General-Purpose_Location_Representation_Learning_over_a_Spherical_Surface_for_Large-Scale_Geospatial_Predictions)
+3. [OpenSource Preprint](https://gengchenmai.github.io/papers/2023-ISPRS-PHOTO-Sphere2Vec.pdf)
+4. [Old Arxiv Paper](https://arxiv.org/abs/2201.10489)
 
 
 
@@ -78,7 +80,7 @@ The codebase uses different location encoder model names from the name we use in
 
 
 ### Reference
-If you find our work useful in your research please consider citing [our ISPRS PHOTO 2023 paper]().  
+If you find our work useful in your research please consider citing [our ISPRS PHOTO 2023 paper](https://www.researchgate.net/publication/371964548_Sphere2Vec_A_General-Purpose_Location_Representation_Learning_over_a_Spherical_Surface_for_Large-Scale_Geospatial_Predictions).  
 ```
 @article{mai2023sphere2vec,
   title={Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions},
@@ -109,7 +111,7 @@ If you use grid location encoder, please also cite [our ICLR 2020 paper](https:/
   publisher={Taylor \& Francis}
 }
 ```
-If you use the unsupervised learning function, please also cite [our ICML 2023 paper](https://gengchenmai.github.io/csp-website/). PLease refer to [our CSP webite](https://gengchenmai.github.io/csp-website/) for more detailed information.  
+If you use the unsupervised learning function, please also cite [our ICML 2023 paper](https://gengchenmai.github.io/csp-website/). Please refer to [our CSP webite](https://gengchenmai.github.io/csp-website/) for more detailed information.  
 ```
 @inproceedings{mai2023csp,
   title={CSP: Self-Supervised Contrastive Spatial Pre-Training for Geospatial-Visual Representations},
