@@ -1,5 +1,5 @@
 # Sphere2Vec: A General-Purpose Location Representation Learning over a Spherical Surface for Large-Scale Geospatial Predictions
-Code for recreating the results in [our Sphere2Vec paper](https://gengchenmai.github.io/sphere2vec-website) to be appeared at [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
+Code for recreating the results in [our Sphere2Vec paper](https://www.researchgate.net/publication/371964548_Sphere2Vec_A_General-Purpose_Location_Representation_Learning_over_a_Spherical_Surface_for_Large-Scale_Geospatial_Predictions) to be appeared at [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing).
 
 ## Related Link
 1. [Website](https://gengchenmai.github.io/sphere2vec-website)
