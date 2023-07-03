@@ -3,9 +3,10 @@ Code for recreating the results in [our Sphere2Vec paper](https://www.researchga
 
 ## Related Link
 1. [Website](https://gengchenmai.github.io/sphere2vec-website)
-2. [ResearchGate Paper](https://www.researchgate.net/publication/371964548_Sphere2Vec_A_General-Purpose_Location_Representation_Learning_over_a_Spherical_Surface_for_Large-Scale_Geospatial_Predictions)
-3. [OpenSource Preprint](https://gengchenmai.github.io/papers/2023-ISPRS-PHOTO-Sphere2Vec.pdf)
-4. [Old Arxiv Paper](https://arxiv.org/abs/2201.10489)
+2. [ArXiv](http://arxiv.org/abs/2306.17624)
+3. [ResearchGate Paper](https://www.researchgate.net/publication/371964548_Sphere2Vec_A_General-Purpose_Location_Representation_Learning_over_a_Spherical_Surface_for_Large-Scale_Geospatial_Predictions)
+4. [OpenSource Preprint](https://gengchenmai.github.io/papers/2023-ISPRS-PHOTO-Sphere2Vec.pdf)
+5. [Old Arxiv Paper](https://arxiv.org/abs/2201.10489)
 
 
 
