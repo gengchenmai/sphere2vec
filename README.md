@@ -3,10 +3,11 @@ Code for recreating the results in [our Sphere2Vec paper](https://www.researchga
 
 ## Related Link
 1. [Website](https://gengchenmai.github.io/sphere2vec-website)
-2. [ArXiv](http://arxiv.org/abs/2306.17624)
-3. [ResearchGate Paper](https://www.researchgate.net/publication/371964548_Sphere2Vec_A_General-Purpose_Location_Representation_Learning_over_a_Spherical_Surface_for_Large-Scale_Geospatial_Predictions)
-4. [OpenSource Preprint](https://gengchenmai.github.io/papers/2023-ISPRS-PHOTO-Sphere2Vec.pdf)
-5. [Old Arxiv Paper](https://arxiv.org/abs/2201.10489)
+2. [Elsevier](https://www.sciencedirect.com/science/article/pii/S0924271623001818)
+3. [ArXiv](http://arxiv.org/abs/2306.17624)
+4. [ResearchGate Paper](https://www.researchgate.net/publication/371964548_Sphere2Vec_A_General-Purpose_Location_Representation_Learning_over_a_Spherical_Surface_for_Large-Scale_Geospatial_Predictions)
+5. [OpenSource Preprint](https://gengchenmai.github.io/papers/2023-ISPRS-PHOTO-Sphere2Vec.pdf)
+6. [Old Arxiv Paper](https://arxiv.org/abs/2201.10489)
 
 
 
@@ -89,6 +90,8 @@ If you find our work useful in your research please consider citing [our ISPRS P
   author={Mai, Gengchen and Xuan, Yao and Zuo, Wenyun and He, Yutong and Song, Jiaming and Ermon, Stefano and Janowicz, Krzysztof and Lao, Ni},
   journal={ISPRS Journal of Photogrammetry and Remote Sensing},
   year={2023},
+  vol={202},
+  pages={439-462},
   publisher={Elsevier}
 }
 ```
